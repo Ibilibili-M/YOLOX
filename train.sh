@@ -1,0 +1,1 @@
+python tools/train.py -f ./exps/example/custom/yolox_s.py -d 4 -b 64 -o --cache --logger wandb wandb-project yolox-plates-0406
